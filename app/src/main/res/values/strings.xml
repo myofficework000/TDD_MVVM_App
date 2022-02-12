@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finito</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="title_activity_edit_note">EditNoteActivity</string>
+
+    <string name="message_last_modified">Last Modified: %s</string>
+</resources>
